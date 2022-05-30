@@ -26,7 +26,7 @@ def main():
             cinema_theatres.append(name.find("strong").text)
 
         # print(cinema_theatres)
-        your_theatre = 'PVR: SKLS Galaxy Mall, Red Hills Chennai'
+        your_theatre = os.environ.get('mov_theatre')
         if your_theatre in cinema_theatres:
             req_url = 'https://api.telegram.org/bot' + os.environ.get('bot_id') +'/sendMessage?chat_id=' + os.environ.get('chat_id') + '&text=Ticket%20Open%20Aiduchu%20da%20Body%20Soda'
             requests.get(req_url)
