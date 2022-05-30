@@ -1,1 +1,1 @@
-web: gunicorn scarpping.py
+worker: python scrapping.py
