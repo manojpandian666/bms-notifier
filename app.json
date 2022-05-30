@@ -1,0 +1,14 @@
+{
+  "name": "BookMyShow",
+  "description": "A Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/manojpandian666/bms-notifier",
+  "keywords": ["python", "bms" ],
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "python scrapping.py"
+      }
+    }
+  }
+}
