@@ -14,7 +14,11 @@ Let's say you want notification if your favourite theatre opens tickets for **VI
 <br>
 2. Then copy the theatre name from the same page as it is.[This should be same string as in web page]
 <br><br>
-3. Voila... Everything is done. Just paste these two parameter in scrapping.py and you are ready to go.
+3. Then create a bot in telegram and copy bot id from it. [Link](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
+<br><br>
+4. Then get chat id by following steps in this link. [Link](https://www.alphr.com/find-chat-id-telegram/)
+<br><br>
+5. Voila... Everything is done. Just paste these four parameter in config_vars in heroku and you are ready to go.
 <br>
 This will work only in local machine. If you need some online solution, try to use any hosting provider to host your code.
 <br><br>
