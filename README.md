@@ -21,6 +21,9 @@ This will work only in local machine. If you need some online solution, try to u
 
 ## Hosting (Heroku)
 
-If you came this far you should be intelligent enough to figure out by yourself.
+If you came this far you should be intelligent enough to figure out by yourself. Just kidding use the below button to deploy it to heroku.<br><br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<br><br>**Add these config_vars**
+![image](https://user-images.githubusercontent.com/75692359/170926888-f712c876-65e8-4ed5-ad58-d247dec3e0e9.png)
 
-<h5 style="text-align:center;">Made with ♥️ by Manoj Pandian</h5>
+<h3 style="text-align:center;">Made with ♥️ by Manoj Pandian</h3>
