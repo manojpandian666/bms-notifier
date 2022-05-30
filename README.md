@@ -20,3 +20,5 @@ This will work only in local machine. If you need some online solution, try to u
 <br><br>
 
 ## Hosting (Heroku)
+
+If you came this far you should be intelligent enough to figure out by yourself.
