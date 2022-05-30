@@ -25,5 +25,8 @@ If you came this far you should be intelligent enough to figure out by yourself.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manojpandian666/bms-notifier)
 <br><br>**Add these config_vars**
 ![image](https://user-images.githubusercontent.com/75692359/170926888-f712c876-65e8-4ed5-ad58-d247dec3e0e9.png)
-
+<br><br>
+After deploying in heroku make sure to turn on the worker.
+<br><br>
+![image](https://user-images.githubusercontent.com/75692359/170928832-97d0cfa7-cca8-46a7-9d38-7a7fed934047.png)
 <h3 style="text-align:center;">Made with ♥️ by Manoj Pandian</h3>
