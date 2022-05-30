@@ -9,7 +9,7 @@ Get Notified in telegram if your movie tickets opened in your favourite theatre.
 Let's say you want notification if your favourite theatre opens tickets for **VIKRAM** movie.
 1. Go and grab the url from bookmyshow page url like shown in the above image. 
 <br>
-**[bookmyshow --> open your movie --> click book tickets --> grab the url from page]**
+<strong>bookmyshow --> open your movie --> click book tickets --> grab the url from page</strong>
 <br>
 <br>
 2. Then copy the theatre name from the same page as it is.[This should be same string as in web page]
@@ -18,4 +18,5 @@ Let's say you want notification if your favourite theatre opens tickets for **VI
 <br>
 This will work only in local machine. If you need some online solution, try to use any hosting provider to host your code.
 <br><br>
-I am using heroku to host my code.
+
+## Hosting (Heroku)
