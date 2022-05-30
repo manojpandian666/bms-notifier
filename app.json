@@ -10,5 +10,19 @@
         "test": "python scrapping.py"
       }
     }
+  },
+  "env": {
+    "bot_id": {
+      "value": "**your bot id**"
+    }
+    "chat_id": {
+      "value": "**your chat id**"
+    }
+    "mov_url": {
+      "value": "**movie url**"
+    }
+    "mov_theatre": {
+      "value": "**Theatre Name**"
+    }
   }
 }
